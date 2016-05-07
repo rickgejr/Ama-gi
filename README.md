@@ -18,4 +18,4 @@ The currency should have these parameters:
 9. Be tangilbe in the sense of there being an actual physical coin/bill, credit/debit card, smartphone app, computer app etc.
 10. Tool of savings as much as possible. (Accomplished it two ways. Saving the physical coins or bills and/or holding the 'code.')
 11. No set fees
-12. Private: maintain CryptoNote Privacy Perimeters
+12. Private: maintain CryptoNote Privacy Parameters
