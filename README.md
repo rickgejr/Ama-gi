@@ -1,0 +1,2 @@
+# Ama-gi
+Experimental CryptoNote
